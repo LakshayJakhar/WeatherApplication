@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0C6RIRDFZ5kIf2inhrP5lsOKMTWeI/dgDU5hRUaazWYsVhYXhltuQHXe3a1EQ/ucXib89W2XRFGvi7qK0kkteQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laksh\\Desktop\\The Odin Projects\\weather app\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laksh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
